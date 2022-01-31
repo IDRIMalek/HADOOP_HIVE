@@ -1,6 +1,6 @@
--- Je me suis inspirer en partie de  lassilias
+-- Je me suis inspiré en parti de  lassilias
 https://github.com/lassilias/IMDB_db_Hadoop_Hive/blob/main/creation_partition_queries_hive_hadoop.sh
-En tentant de faire plus simple 
+En tentant de faire plus simple. 
 
 
 -------------------------------------------------------------------Hadoop-Hive --------------------------------------------------------------------
